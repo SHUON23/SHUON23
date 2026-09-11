@@ -10,6 +10,8 @@ Os repositórios de código de produção ficam privados (têm lógica e dados d
 
 **🧮 [StructCalc](https://github.com/SHUON23/structcalc-showcase)** — calculadora estrutural com controle de acesso, versão web (Vercel) e versão desktop (Tauri), desenvolvida para uma empresa do setor de estruturas metálicas. [Demo ao vivo](https://structcalc-phi.vercel.app)
 
+**🎙️ [App de Gravação e Transcrição](https://github.com/SHUON23/gravacao-transcricao-showcase)** — Android, grava áudio, transcreve e resume textos longos via IA. Já são 5 versões testadas e evoluídas.
+
 **📄 App de digitalização de documentos (Android)** — captura foto, aplica OCR e gera o documento final pronto pra uso, feito sob encomenda para digitalização de documentos em tablet/celular.
 
 **⏰ App despertador personalizado (Android)** — despertador com voz e áudio de fundo customizáveis, projeto freelance.
