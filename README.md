@@ -1,12 +1,12 @@
 # Olá, eu sou o João Batista 👋
 
-Desenhista Projetista que também programa, e programa há um tempo, não é hobby de fim de semana. No dia a dia trabalho com coberturas metálicas e automação dentro do Revit (API, famílias paramétricas, geração de geometria por código). Fora do expediente, venho entregando aplicativos e ferramentas sob encomenda pra pequenos negócios e projetos pessoais.
+Desenhista Projetista que também programa, e programa há um tempo, não é hobby de fim de semana. Uso o Revit todo dia e pratico automação nele por conta própria: API, famílias paramétricas, geração de geometria por código. Fora do expediente, venho entregando aplicativos e ferramentas sob encomenda pra pequenos negócios e projetos pessoais.
 
 Os repositórios de código de produção ficam privados (têm lógica e dados de clientes), mas cada projeto abaixo tem um repositório vitrine público, com a explicação do que foi feito.
 
 ## O que eu construo
 
-**🏗️ Automação BIM/Revit** meu diferencial: scripts em C#/Python usando a API do Revit pra automatizar o que a interface gráfica não resolve sozinha, geração paramétrica de famílias, cálculo de geometria de cobertura metálica (corte, paginação, quantitativo), reconstrução de sólidos. Esse é o trabalho do meu dia a dia, aplicado em obras reais.
+**🏗️ Automação BIM/Revit** habilidade que desenvolvi por conta própria: scripts em C#/Python usando a API do Revit pra automatizar o que a interface gráfica não resolve sozinha, geração paramétrica de famílias, cálculo de geometria complexa, reconstrução de sólidos.
 
 **🧮 [StructCalc](https://github.com/SHUON23/structcalc-showcase)** calculadora estrutural com controle de acesso, versão web e versão desktop, desenvolvida para uma empresa do setor de estruturas metálicas. [Demo ao vivo](https://structcalc-phi.vercel.app)
 
