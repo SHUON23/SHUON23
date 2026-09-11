@@ -16,7 +16,7 @@ Os repositórios de código de produção ficam privados (têm lógica e dados d
 
 **⏰ [Despertador com Voz](https://github.com/SHUON23/despertador-showcase)** Android, permite gravar a própria voz pra tocar junto com uma música de fundo escolhida.
 
-**📖 App de genealogia bíblica (Android)** árvore genealógica navegável de Adão a Jesus, desenvolvido para uso de uma igreja.
+**📖 [Genealogia Bíblica](https://github.com/SHUON23/genealogia-biblica-showcase)** linha do tempo bíblica navegável, de Adão a Jesus, com busca por nome e filtro por época. Web e Android, feito para uma igreja.
 
 ## Stack que uso
 
