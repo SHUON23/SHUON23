@@ -14,7 +14,7 @@ Os repositórios de código de produção ficam privados (têm lógica e dados d
 
 **📄 [Digitador de Documentos](https://github.com/SHUON23/digitador-documentos-showcase)** transforma foto, scan ou PDF em Word já formatado. Tem versão desktop e versão tablet/celular, com leitura de texto impresso e também manuscrito.
 
-**⏰ App despertador personalizado (Android)** despertador com voz e áudio de fundo customizáveis, projeto freelance.
+**⏰ [Despertador com Voz](https://github.com/SHUON23/despertador-showcase)** Android, permite gravar a própria voz pra tocar junto com uma música de fundo escolhida.
 
 **📖 App de genealogia bíblica (Android)** árvore genealógica navegável de Adão a Jesus, desenvolvido para uso de uma igreja.
 
