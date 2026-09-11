@@ -18,9 +18,11 @@ Os repositórios de código de produção ficam privados (têm lógica e dados d
 
 **📖 [Genealogia Bíblica](https://github.com/SHUON23/genealogia-biblica-showcase)** linha do tempo bíblica navegável, de Adão a Jesus, com busca por nome e filtro por época. Web e Android, feito para uma igreja.
 
+**🎮 [Shuon-Ke-Mon](https://github.com/SHUON23/shuon-ke-mon-showcase)** jogo de RPG no estilo captura e batalha de criaturas, feito em Godot. Projeto pessoal em desenvolvimento.
+
 ## Stack que uso
 
-`C#` · `Python` · `Revit API` · `JavaScript` · `Kotlin/Android` · `Tauri` · `Node.js`
+`C#` · `Python` · `Revit API` · `JavaScript` · `Kotlin/Android` · `Tauri` · `Node.js` · `Godot`
 
 ## Vamos conversar
 
