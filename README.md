@@ -8,7 +8,7 @@ Os repositórios de código de produção ficam privados (têm lógica e dados d
 
 **🏗️ Automação BIM/Revit** habilidade que desenvolvi por conta própria: scripts em C#/Python usando a API do Revit pra automatizar o que a interface gráfica não resolve sozinha, geração paramétrica de famílias, cálculo de geometria complexa, reconstrução de sólidos.
 
-**📊 [InvestPro Dashboard](https://github.com/SHUON23/investpro-showcase)** simulador de investimentos e aposentadoria, gratuito e sem cadastro, com juros compostos, gráficos, cenários e exportação em CSV/PDF. Projeto pessoal.
+**📊 [InvestPro Dashboard](https://github.com/SHUON23/investpro-showcase)** simulador de investimentos e aposentadoria, gratuito e sem cadastro, com juros compostos, gráficos, cenários e exportação em CSV/PDF. [Demo ao vivo](https://investpro-dashboard-gamma.vercel.app/)
 
 **🧮 [StructCalc](https://github.com/SHUON23/structcalc-showcase)** calculadora estrutural com controle de acesso, versão web e versão desktop, desenvolvida para uma empresa do setor de estruturas metálicas. [Demo ao vivo](https://structcalc-phi.vercel.app)
 
